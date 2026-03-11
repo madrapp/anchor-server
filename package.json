@@ -1,0 +1,15 @@
+{
+  "name": "anchor-server",
+  "version": "1.0.0",
+  "description": "Backend server for Anchor mental health app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
